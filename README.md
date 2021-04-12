@@ -1,3 +1,3 @@
 # CS4348-Project1
 
-I'll add my CS4348 Project 1 here once it is graded
+This project attempts to emulate a CPU based on the specifed instructions 
