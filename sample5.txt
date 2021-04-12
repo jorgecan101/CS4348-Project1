@@ -1,0 +1,176 @@
+.0
+1   //load 70
+70  //F
+9   //print to the screen
+2   
+1   //load 73
+73  //I
+9   //print to the screen
+2   
+1   //load 66
+66  //B
+9   //print to the screen
+2   
+1   //load 79
+79  //O
+9   //print to the screen
+2   
+1   //load 78
+78  //N
+9   //print to the screen
+2   
+1   //load 65
+65  //A
+9   //print to the screen
+2   
+1   //load 67
+67  //C
+9   //print to the screen
+2   
+1   //load 67
+67  //C
+9   //print to the screen
+2   
+1   //load 73
+73  //I
+9   //print to the screen
+2   
+1   //load 58
+58  //:
+9   //print to the screen
+2 
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 48
+48  //0
+9   //print to the screen
+2   
+
+1   //load newline
+10  
+9   //print to screen
+2
+
+1   //load 49
+49  //1
+9   //print to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 49
+49  //1
+9   //print to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 50
+50  //gets 2
+9   //prints to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //loads 51
+51  //gets 3
+9   //print to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 53
+53  //gets 5
+9   //print to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 56
+56  //gets 8
+9   //print to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 49
+49  //gets 1
+9   //print to screen
+2
+1   //load 51
+51  //gets 3
+9   //print to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 50
+50  //gets 2
+9   //prints to screen
+2
+1   //load 49
+49  //gets 1
+9   //prints to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 51
+51  //gets 3
+9   //prints to screen
+2
+1   //load 52
+52  //gets 4
+9   //prints to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+
+1   //load 53
+53  //gets 5
+9   //prints to screen
+2   
+1   //load 53
+53  //gets 5
+9   //prints to screen
+2
+
+1   //load newline
+10
+9   //print to screen
+2
+50  //end program
+
+.1000   //for timing interrupts
+30
